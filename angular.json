@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "prueangu"
+    }
+  },
+  "defaultProject": "prueangu",
+  "cli": {
+    "analytics": false
+  }
 }
